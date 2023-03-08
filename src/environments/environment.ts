@@ -4,7 +4,7 @@
 
 export const environment = {
   production: true,
-  apiUrl:"http://quotes.stormconsultancy.co.uk/random.json"
+  apiUrl:"https://yusufnb-quotes-v1.p.rapidapi.com/widget/~einstein.json"
 };
 
 /*
