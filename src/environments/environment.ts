@@ -3,8 +3,8 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false,
-  apiUrl:"http://quotes.stormconsultancy.co.uk/random.json"
+  production: true,
+  apiUrl:"https://yusufnb-quotes-v1.p.rapidapi.com/widget/~einstein.json"
 };
 
 /*

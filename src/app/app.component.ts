@@ -7,6 +7,7 @@ import { Goal } from './goal';
 
 })
 export class AppComponent {
+[x: string]: any;
 
 constructor(){}
 
