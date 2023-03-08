@@ -28,8 +28,8 @@ export class QuoteRequestService {
          resolve()
        },
        error=>{
-         this.quote.quote = "Never, never, never give up"
-         this.quote.author = "Winston Churchill"
+         this.quote.quote = "Bora uhai"
+         this.quote.author = "Kenyans"
 
          reject(error)
        })
